@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NovaLock</string>
+    <string name="accessibility_description">Detecta o aplicativo aberto para mostrar a tela de bloqueio dos apps que você selecionou. Não lê nem coleta o conteúdo da tela.</string>
+</resources>
